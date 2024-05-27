@@ -1,0 +1,25 @@
+/*header*/
+.header{
+    background-color: #7480d9;
+}
+/*element in about me*/
+.profile-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-Contact{
+    background-color: #6064d4;
+}
+.btn-Support{
+    background-color: #6064d4;
+}
+/*Feature*/
+.two-card{
+    display: flex;
+    justify-content: space-between;
+}
+/*footer*/
+.footer{
+    background-color: #7480d9;
+}
